@@ -1,0 +1,16 @@
+Condicionales:
+
+Las condicionales permiten ejecutar diferentes bloques de código en función de si una condición se cumple o no. Las estructuras condicionales más comunes en JavaScript son:
+
+if: Se utiliza para ejecutar un bloque de código si una condición se cumple.
+else: Se utiliza para ejecutar un bloque de código si la condición del if no se cumple.
+else if: Se utiliza para ejecutar un bloque de código si una condición se cumple, pero otra no.
+switch: Se utiliza para ejecutar un bloque de código en función del valor de una variable.
+
+Bucles:
+
+Los bucles permiten ejecutar un bloque de código varias veces. Los bucles más comunes en JavaScript son:
+
+for: Se utiliza para ejecutar un bloque de código un número determinado de veces.
+while: Se utiliza para ejecutar un bloque de código mientras una condición se cumpla.
+do while: Se utiliza para ejecutar un bloque de código al menos una vez, y luego mientras una condición se cumpla.

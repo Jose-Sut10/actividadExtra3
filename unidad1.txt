@@ -1,0 +1,24 @@
+
+Resumen de proposiciones y el sistema binario
+Proposiciones:
+
+Las proposiciones son enunciados que pueden ser verdaderos o falsos. Se utilizan en lógica para construir argumentos y razonamientos.
+
+Tipos de proposiciones:
+
+Simples: Son proposiciones que no se pueden descomponer en proposiciones más pequeñas. Ejemplo: "El cielo es azul".
+Compuestas: Son proposiciones que se forman a partir de dos o más proposiciones simples mediante conectivos lógicos. Ejemplo: "El cielo es azul y el sol brilla".
+Conectivos lógicos:
+
+Los conectivos lógicos son símbolos que se utilizan para combinar proposiciones simples y formar proposiciones compuestas. Los conectivos lógicos más comunes son:
+
+Negación (¬): Se utiliza para negar una proposición.
+Conjunción (∧): Se utiliza para unir dos proposiciones y formar una nueva proposición que es verdadera solo si ambas proposiciones son verdaderas.
+Disyunción (∨): Se utiliza para unir dos proposiciones y formar una nueva proposición que es verdadera si al menos una de las proposiciones es verdadera.
+Implicación (→): Se utiliza para formar una nueva proposición que es verdadera si la segunda proposición es verdadera siempre que la primera proposición sea verdadera.
+Equivalencia (↔): Se utiliza para formar una nueva proposición que es verdadera si ambas proposiciones son verdaderas o si ambas proposiciones son falsas.
+
+
+Sistema binario:
+
+El sistema binario es un sistema de numeración que utiliza solo dos dígitos: 0 y 1. Se utiliza en informática para representar datos y realizar operaciones matemáticas.

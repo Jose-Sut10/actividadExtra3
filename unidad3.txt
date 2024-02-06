@@ -1,0 +1,9 @@
+
+Resumen de los controladores de versiones
+¿Qué son los controladores de versiones?
+
+Los controladores de versiones son herramientas que permiten realizar un seguimiento de los cambios realizados en archivos o conjuntos de archivos a lo largo del tiempo. Permiten:
+
+Revertir a versiones anteriores: Si se comete un error o no se está satisfecho con un cambio, se puede volver a una versión anterior del archivo.
+Ver el historial de cambios: Es posible ver quién realizó qué cambios y cuándo se hicieron.
+Colaborar en proyectos: Los equipos pueden trabajar en los mismos archivos sin sobrescribir el trabajo de los demás.
